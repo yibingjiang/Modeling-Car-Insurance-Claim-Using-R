@@ -1,1 +1,1 @@
-# Modeling-Car-Insurance-Claim-Using-R
+# Modeling Car Insurance Claim Using R
